@@ -14,7 +14,7 @@ Backend Developer with 5+ years of experience building scalable, high-performanc
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Professional Experience
 
 ### [Effectiff PDF Invoicing Microservice](https://github.com/raywonderchildish/effectiff-invoicing)  
 Developed a fault-tolerant PDF invoicing microservice using BullMQ and Redis, integrated with AWS S3 and SES. Supports 2000+ concurrent jobs with zero downtime.
@@ -29,7 +29,6 @@ Built scalable auth microservice (JWT & Redis) reducing fraud by 40%. Created po
 - Telegram: [t.me/raywforever](http://t.me/raywforever)  
 - Email: [ilya.polozoff@gmail.com](mailto:ilya.polozoff@gmail.com)  
 - LinkedIn: [linkedin.com/in/ilyakuzmenko](http://linkedin.com/in/ilyakuzmenko)  
-- GitHub: [github.com/raywonderchildish](http://github.com/raywonderchildish)  
 
 ---
 
