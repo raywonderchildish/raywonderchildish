@@ -88,10 +88,6 @@ Leading digital advisor platform using AI algorithms for personalized investment
 
 <div align="center">
 
-### 🚀 Always building something amazing  
+### *Always building something amazing*  
 
 </div>
-
----
-
-*Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration opportunities.*
