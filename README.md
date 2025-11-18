@@ -46,9 +46,9 @@ Backend Developer with **5+ years** of experience building **scalable, high-perf
 ## 💼 Professional Experience
 
 ### **Effectiff LLC** — *Team-Lead / Senior Backend Developer*  
-`Nov 2022 – Present` | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
+Nov 2022 – Present | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
 
-> Language service provider delivering interpreting solutions for healthcare, legal, and government sectors.
+Language service provider delivering interpreting solutions for healthcare, legal, and government sectors.
 
 🚀 **Key Achievements:**
 - **Optimized microservice performance** using worker threads and GIN indexing on 15M+ records, **reducing query response time by 40%**
@@ -57,14 +57,12 @@ Backend Developer with **5+ years** of experience building **scalable, high-perf
 - **Developed scalable PDF invoicing microservice** with BullMQ, Redis, Puppeteer; handled **2,000+ concurrent jobs** fault-tolerantly across 5 replicas
 - **Enhanced CI/CD pipelines**, increasing test coverage from **43% to 93%** and reducing testing runtime from **32 to 8 minutes**
 
-🛠 **Technologies:** Node.js, TypeScript, PostgreSQL, Redis, BullMQ, Docker, AWS S3, Puppeteer, Cypress
-
 ---
 
 ### **Vanguard** — *Middle Backend Developer*  
-`Jun 2020 – Nov 2022` | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
+Jun 2020 – Nov 2022 | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
 
-> Leading digital advisor platform using AI algorithms for personalized investment strategies.
+Leading digital advisor platform using AI algorithms for personalized investment strategies.
 
 🚀 **Key Achievements:**
 - **Improved risk-calculation accuracy by 20%** through integrating TensorFlow ML models predicting crypto asset volatility
@@ -72,19 +70,6 @@ Backend Developer with **5+ years** of experience building **scalable, high-perf
 - **Developed portfolio-management microservice** with Kafka-based event system that **cut bottlenecks by 40%** during NYSE peak times
 - **Implemented advanced caching strategies**, decreasing database query volume by **84%** and improving response time by **96%**
 - **Standardized backend testing**, raising coverage from **53% to 91.8%** and reducing production hotfixes by **approximately 45%**
-
-🛠 **Technologies:** Node.js, TypeScript, Kafka, Redis, TensorFlow, JWT, Kubernetes, Jest
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ilya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -104,7 +89,6 @@ Backend Developer with **5+ years** of experience building **scalable, high-perf
 <div align="center">
 
 ### 🚀 Always building something amazing  
-### 💡 Passionate about clean code and scalable architecture  
 
 ![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
@@ -112,4 +96,4 @@ Backend Developer with **5+ years** of experience building **scalable, high-perf
 
 ---
 
-*✨ Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration opportunities.*
+*Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration opportunities.*
