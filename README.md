@@ -90,8 +90,6 @@ Leading digital advisor platform using AI algorithms for personalized investment
 
 ### 🚀 Always building something amazing  
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
