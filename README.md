@@ -1,4 +1,8 @@
-# Hi, I'm Ilya Kuzmenko 👋
+# Hi, I'm Ilya Kuzmenko 🦊
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 Backend Developer with 5+ years of experience building scalable, high-performance systems using Node.js, TypeScript, and PostgreSQL. Specialized in microservices and API design, passionate about optimizing system reliability and user experience.
 
@@ -6,11 +10,43 @@ Backend Developer with 5+ years of experience building scalable, high-performanc
 
 ## 🛠️ Tech Stack & Skills
 
-- **Backend:** Node.js, TypeScript, NestJS, REST API, WebSocket (Socket.IO), gRPC, JWT, OAuth2  
-- **Databases:** PostgreSQL, MongoDB, Redis, Sequelize, TypeORM, Prisma  
-- **Infrastructure & Messaging:** Docker, Kubernetes, CI/CD (GitHub & GitLab), Kafka, RabbitMQ, BullMQ, NATS, Prometheus, Grafana, New Relic  
-- **Testing:** Jest, Vitest, Cypress  
-- **AI/ML:** Experience with LLM and AI tools like ChatGPT, Cursor, Gemini  
+- **Backend:** 
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" width="20" height="20"/> Node.js, 
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="20" height="20"/> TypeScript, 
+  <img src="https://simpleicons.org/icons/nestjs.svg" alt="NestJS" width="20" height="20"/> NestJS, 
+  REST API, WebSocket (
+  <img src="https://simpleicons.org/icons/socketdotio.svg" alt="Socket.IO" width="20" height="20"/> Socket.IO), 
+  gRPC, JWT, OAuth2  
+
+- **Databases:** 
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL, 
+  <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="20" height="20"/> MongoDB, 
+  <img src="https://simpleicons.org/icons/redis.svg" alt="Redis" width="20" height="20"/> Redis, 
+  Sequelize, TypeORM, 
+  <img src="https://simpleicons.org/icons/prisma.svg" alt="Prisma" width="20" height="20"/> Prisma  
+
+- **Infrastructure & Messaging:** 
+  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="20" height="20"/> Docker, 
+  <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="20" height="20"/> Kubernetes, 
+  CI/CD (
+  <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="20" height="20"/> GitHub & 
+  <img src="https://simpleicons.org/icons/gitlab.svg" alt="GitLab" width="20" height="20"/> GitLab), 
+  <img src="https://simpleicons.org/icons/apachekafka.svg" alt="Kafka" width="20" height="20"/> Kafka, 
+  <img src="https://simpleicons.org/icons/rabbitmq.svg" alt="RabbitMQ" width="20" height="20"/> RabbitMQ, 
+  BullMQ, NATS, 
+  <img src="https://simpleicons.org/icons/prometheus.svg" alt="Prometheus" width="20" height="20"/> Prometheus, 
+  <img src="https://simpleicons.org/icons/grafana.svg" alt="Grafana" width="20" height="20"/> Grafana, 
+  New Relic  
+
+- **Testing:** 
+  <img src="https://simpleicons.org/icons/jest.svg" alt="Jest" width="20" height="20"/> Jest, 
+  Vitest, 
+  <img src="https://simpleicons.org/icons/cypress.svg" alt="Cypress" width="20" height="20"/> Cypress  
+
+- **AI/ML:** Experience with LLM and AI tools like 
+  <img src="https://simpleicons.org/icons/openai.svg" alt="ChatGPT" width="20" height="20"/> ChatGPT, 
+  Cursor, 
+  <img src="https://simpleicons.org/icons/googlebard.svg" alt="Gemini" width="20" height="20"/> Gemini  
 
 ---
 
@@ -18,6 +54,8 @@ Backend Developer with 5+ years of experience building scalable, high-performanc
 
 ### [Effectiff LLC](https://effectiff.com/) (Remote) — Walnut Creek, CA, USA  
 **Team-Lead / Senior Backend Developer** | Nov 2022 – Present 
+
+![Microservices](https://img.shields.io/badge/Microservices-Expert-blue?style=flat)
 
 Language service provider delivering on-site, telephonic, and video interpreting solutions for healthcare, legal, and government sectors.
 
@@ -32,6 +70,8 @@ Language service provider delivering on-site, telephonic, and video interpreting
 ### [Vanguard](https://investor.vanguard.com/advice/robo-advisor) (Remote) — Valley Forge, Pennsylvania, USA  
 **Middle Backend Developer** | Jun 2020 – Nov 2022  
 
+![AI](https://img.shields.io/badge/AI-Integrated-green?style=flat)
+
 Leading digital advisor platform using AI algorithms for personalized investment strategies.
 
 - Improved risk-calculation accuracy by 20% through integrating TensorFlow ML models predicting crypto asset volatility via non-blocking Node.js endpoints.  
@@ -44,10 +84,12 @@ Leading digital advisor platform using AI algorithms for personalized investment
 
 ## 📫 Contact Me
 
-- Telegram: [t.me/raywforever](http://t.me/raywforever)  
-- Email: [ilya.polozoff@gmail.com](mailto:ilya.polozoff@gmail.com)  
-- LinkedIn: [linkedin.com/in/ilyakuzmenko](http://linkedin.com/in/ilyakuzmenko)  
+- <img src="https://simpleicons.org/icons/telegram.svg" alt="Telegram" width="20" height="20"/> Telegram: [t.me/raywforever](http://t.me/raywforever)  
+- <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" width="20" height="20"/> Email: [ilya.polozoff@gmail.com](mailto:ilya.polozoff@gmail.com)  
+- <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/> LinkedIn: [linkedin.com/in/ilyakuzmenko](http://linkedin.com/in/ilyakuzmenko)  
 
 ---
 
 Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration or job opportunities.
+
+![Visitors](https://img.shields.io/badge/Visitors-Welcome-brightgreen?style=flat)
