@@ -16,8 +16,9 @@ Backend Developer with 5+ years of experience building scalable, high-performanc
 
 ## 💼 Professional Experience
 
-### Effectiff LLC (Remote) — Walnut Creek, CA, USA  
-**Team-Lead / Senior Backend Developer** | Nov 2022 – Present  
+### [Effectiff LLC](https://effectiff.com/) (Remote) — Walnut Creek, CA, USA  
+**Team-Lead / Senior Backend Developer** | Nov 2022 – Present 
+
 Language service provider delivering on-site, telephonic, and video interpreting solutions for healthcare, legal, and government sectors.
 
 - Optimized a heavily-used microservice using worker threads and GIN indexing on 15M+ records, reducing query response time by 40%.  
@@ -26,8 +27,9 @@ Language service provider delivering on-site, telephonic, and video interpreting
 - Developed scalable PDF invoicing microservice with BullMQ, Redis, Puppeteer; integrated AWS S3 storage and SES email notifications. Managed over 2,000 concurrent jobs fault-tolerantly across 5 replicas, ensuring zero downtime under peak loads.  
 - Enhanced CI/CD pipelines; increased test coverage from 43% to 93% and reduced testing runtime from 32 to 8 minutes by parallelizing Cypress tests.
 
-### Vanguard (Remote) — Valley Forge, Pennsylvania, USA  
+### [Vanguard](https://investor.vanguard.com/advice/robo-advisor) (Remote) — Valley Forge, Pennsylvania, USA  
 **Middle Backend Developer** | Jun 2020 – Nov 2022  
+
 Leading digital advisor platform using AI algorithms for personalized investment strategies.
 
 - Improved risk-calculation accuracy by 20% through integrating TensorFlow ML models predicting crypto asset volatility via non-blocking Node.js endpoints.  
