@@ -45,8 +45,9 @@ Backend Developer with **5+ years** of experience building **scalable, high-perf
 
 ## 💼 Professional Experience
 
-### **Effectiff LLC** — *Team-Lead / Senior Backend Developer*  
-Nov 2022 – Present | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
+### **Effectiff LLC** — *Team-Lead / Senior Backend Developer* 
+![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
+Nov 2022 – Present
 
 Language service provider delivering interpreting solutions for healthcare, legal, and government sectors.
 
@@ -60,7 +61,8 @@ Language service provider delivering interpreting solutions for healthcare, lega
 ---
 
 ### **Vanguard** — *Middle Backend Developer*  
-Jun 2020 – Nov 2022 | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
+![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
+Jun 2020 – Nov 2022
 
 Leading digital advisor platform using AI algorithms for personalized investment strategies.
 
