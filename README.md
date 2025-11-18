@@ -1,31 +1,30 @@
-# Привет! Я Ilya Kuzmenko 👋
+# Hi, I'm Ilya Kuzmenko 👋
 
-Backend Developer с 5+ лет опыта в построении масштабируемых и производительных систем на Node.js и TypeScript.  
-Специализируюсь на микросервисах, API-дизайне и оптимизации надежности систем.
+Backend Developer with 5+ years of experience building scalable, high-performance systems using Node.js, TypeScript, and PostgreSQL. Specialized in microservices and API design, passionate about optimizing system reliability and user experience.
 
 ---
 
-## 🛠️ Мои ключевые технологии
+## 🛠️ Tech Stack & Skills
 
 - **Backend:** Node.js, TypeScript, NestJS, REST API, WebSocket (Socket.IO), gRPC, JWT, OAuth2  
-- **Базы данных:** PostgreSQL, MongoDB, Redis, Sequelize, TypeORM, Prisma  
-- **Инфраструктура:** Docker, Kubernetes, CI/CD (GitHub/GitLab), Kafka, RabbitMQ, BullMQ  
-- **Тестирование:** Jest, Vitest, Cypress  
-- **AI/ML:** Работа с LLM (ChatGPT, Cursor, Gemini)  
+- **Databases:** PostgreSQL, MongoDB, Redis, Sequelize, TypeORM, Prisma  
+- **Infrastructure & Messaging:** Docker, Kubernetes, CI/CD (GitHub & GitLab), Kafka, RabbitMQ, BullMQ, NATS, Prometheus, Grafana, New Relic  
+- **Testing:** Jest, Vitest, Cypress  
+- **AI/ML:** Experience with LLM and AI tools like ChatGPT, Cursor, Gemini  
 
 ---
 
-## 🔥 Избранные проекты
+## 🚀 Selected Projects
 
-### [Effectiff - Scalable PDF Invoicing Microservice](https://github.com/raywonderchildish/effectiff-invoicing)  
-Разработал отказоустойчивый микросервис на BullMQ и Redis для генерации PDF счетов с интеграцией AWS S3 и SES. Обеспечил обработку 2000+ параллельных задач с нулевым простоем.
+### [Effectiff PDF Invoicing Microservice](https://github.com/raywonderchildish/effectiff-invoicing)  
+Developed a fault-tolerant PDF invoicing microservice using BullMQ and Redis, integrated with AWS S3 and SES. Supports 2000+ concurrent jobs with zero downtime.
 
-### [Vanguard - Auth & Portfolio Microservices](https://github.com/raywonderchildish/vanguard-microservices)  
-Создание микросервисов аутентификации с JWT и Redis, улучшение производительности портфельного сервиса с Kafka, снижая узкие места на 40%.
+### [Vanguard Portfolio & Auth Microservices](https://github.com/raywonderchildish/vanguard-microservices)  
+Built scalable auth microservice (JWT & Redis) reducing fraud by 40%. Created portfolio management services with Kafka event-driven architecture improving peak throughput by 40%.
 
 ---
 
-## 📫 Контакты
+## 📫 Contact Me
 
 - Telegram: [t.me/raywforever](http://t.me/raywforever)  
 - Email: [ilya.polozoff@gmail.com](mailto:ilya.polozoff@gmail.com)  
@@ -34,6 +33,6 @@ Backend Developer с 5+ лет опыта в построении масштаб
 
 ---
 
-*Буду рад обсуждению новых проектов и совместной работы!*
+Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration or job opportunities.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raywonderchild&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raywonderchildish&show_icons=true&theme=radical)
