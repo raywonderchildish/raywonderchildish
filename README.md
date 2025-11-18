@@ -26,17 +26,15 @@ Language service provider delivering on-site, telephonic, and video interpreting
 - Developed scalable PDF invoicing microservice with BullMQ, Redis, Puppeteer; integrated AWS S3 storage and SES email notifications. Managed over 2,000 concurrent jobs fault-tolerantly across 5 replicas, ensuring zero downtime under peak loads.  
 - Enhanced CI/CD pipelines; increased test coverage from 43% to 93% and reduced testing runtime from 32 to 8 minutes by parallelizing Cypress tests.
 
----
+### Vanguard (Remote) — Valley Forge, Pennsylvania, USA  
+**Middle Backend Developer** | Jun 2020 – Nov 2022  
+Leading digital advisor platform using AI algorithms for personalized investment strategies.
 
-### Effectiff LLC (Remote) — Walnut Creek, CA, USA  
-**Team-Lead / Senior Backend Developer** | Nov 2022 – Present  
-Language service provider delivering on-site, telephonic, and video interpreting solutions for healthcare, legal, and government sectors.
-
-- Optimized a heavily-used microservice using worker threads and GIN indexing on 15M+ records, reducing query response time by 40%.  
-- Led team onboarding and mentoring, cutting new engineer ramp-up time by 14 days.  
-- Integrated cal.com API enabling real-time scheduling with robust timezone management, reducing missed calls by 22%.  
-- Developed scalable PDF invoicing microservice with BullMQ, Redis, Puppeteer; integrated AWS S3 storage and SES email notifications. Managed over 2,000 concurrent jobs fault-tolerantly across 5 replicas, ensuring zero downtime under peak loads.  
-- Enhanced CI/CD pipelines; increased test coverage from 43% to 93% and reduced testing runtime from 32 to 8 minutes by parallelizing Cypress tests.
+- Improved risk-calculation accuracy by 20% through integrating TensorFlow ML models predicting crypto asset volatility via non-blocking Node.js endpoints.  
+- Built scalable authentication microservice with JWT and Redis; implemented RS256 signing and KYC compliance, reducing fraud incidents by 40%.  
+- Led development of portfolio-management microservice with Kafka-based event producers/consumers that cut bottlenecks by 40% during NYSE peak times.  
+- Implemented advanced caching strategies, decreasing database query volume by 84% and improving response time by 96%.  
+- Standardized backend content services testing, raising coverage from 53% to 91.8% and reducing production hotfixes by approximately 45%.
 
 ---
 
