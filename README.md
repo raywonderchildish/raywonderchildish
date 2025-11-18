@@ -36,4 +36,4 @@ Backend Developer с 5+ лет опыта в построении масштаб
 
 *Буду рад обсуждению новых проектов и совместной работы!*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raywonderchildish&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrynik&show_icons=true&theme=radical)
