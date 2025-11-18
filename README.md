@@ -1,71 +1,115 @@
-# Hi, I'm Ilya Kuzmenko 🦊
+# Hi, I'm Ilya Kuzmenko 🦊  
+**Backend Developer | Microservices Specialist**
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-0052D4?style=flat&logo=api&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat&logo=oauth&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-Backend Developer with 5+ years of experience building scalable, high-performance systems using Node.js, TypeScript, and PostgreSQL. Specialized in microservices and API design, passionate about optimizing system reliability and user experience.
+Backend Developer with **5+ years** of experience building **scalable, high-performance systems** using **Node.js, TypeScript, and PostgreSQL**. Specialized in **microservices architecture** and **API design**, passionate about optimizing system reliability and user experience.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-- **Backend:** Node.js, TypeScript, NestJS, REST API, WebSocket (Socket.IO), gRPC, JWT, OAuth2  
-- **Databases:** PostgreSQL, MongoDB, Redis, Sequelize, TypeORM, Prisma  
-- **Infrastructure & Messaging:** Docker, Kubernetes, CI/CD (GitHub & GitLab), Kafka, RabbitMQ, BullMQ, NATS, Prometheus, Grafana, New Relic  
-- **Testing:** Jest, Vitest, Cypress  
-- **AI/ML:** Experience with LLM and AI tools like ChatGPT, Cursor, Gemini  
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0052D4?style=flat&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
+
+### **Databases & ORM**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0909?style=flat&logo=typeorm&logoColor=white)
+
+### **Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+### **Messaging & Monitoring**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### [Effectiff LLC](https://effectiff.com/) (Remote) — Walnut Creek, CA, USA  
-**Team-Lead / Senior Backend Developer** | Nov 2022 – Present 
+### **Effectiff LLC** — *Team-Lead / Senior Backend Developer*  
+`Nov 2022 – Present` | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
 
-![Microservices](https://img.shields.io/badge/Microservices-Expert-blue?style=flat)
+> Language service provider delivering interpreting solutions for healthcare, legal, and government sectors.
 
-Language service provider delivering on-site, telephonic, and video interpreting solutions for healthcare, legal, and government sectors.
+🚀 **Key Achievements:**
+- **Optimized microservice performance** using worker threads and GIN indexing on 15M+ records, **reducing query response time by 40%**
+- **Led team onboarding and mentoring**, cutting new engineer ramp-up time by **14 days**
+- **Integrated cal.com API** for real-time scheduling with robust timezone management, **reducing missed calls by 22%**
+- **Developed scalable PDF invoicing microservice** with BullMQ, Redis, Puppeteer; handled **2,000+ concurrent jobs** fault-tolerantly across 5 replicas
+- **Enhanced CI/CD pipelines**, increasing test coverage from **43% to 93%** and reducing testing runtime from **32 to 8 minutes**
 
-- Optimized a heavily-used microservice using worker threads and GIN indexing on 15M+ records, reducing query response time by 40%.  
-- Led team onboarding and mentoring, cutting new engineer ramp-up time by 14 days.  
-- Integrated cal.com API enabling real-time scheduling with robust timezone management, reducing missed calls by 22%.  
-- Developed scalable PDF invoicing microservice with BullMQ, Redis, Puppeteer; integrated AWS S3 storage and SES email notifications. Managed over 2,000 concurrent jobs fault-tolerantly across 5 replicas, ensuring zero downtime under peak loads.  
-- Enhanced CI/CD pipelines; increased test coverage from 43% to 93% and reduced testing runtime from 32 to 8 minutes by parallelizing Cypress tests.
-
----
-
-### [Vanguard](https://investor.vanguard.com/advice/robo-advisor) (Remote) — Valley Forge, Pennsylvania, USA  
-**Middle Backend Developer** | Jun 2020 – Nov 2022  
-
-![AI](https://img.shields.io/badge/AI-Integrated-green?style=flat)
-
-Leading digital advisor platform using AI algorithms for personalized investment strategies.
-
-- Improved risk-calculation accuracy by 20% through integrating TensorFlow ML models predicting crypto asset volatility via non-blocking Node.js endpoints.  
-- Built scalable authentication microservice with JWT and Redis; implemented RS256 signing and KYC compliance, reducing fraud incidents by 40%.  
-- Led development of portfolio-management microservice with Kafka-based event producers/consumers that cut bottlenecks by 40% during NYSE peak times.  
-- Implemented advanced caching strategies, decreasing database query volume by 84% and improving response time by 96%.  
-- Standardized backend content services testing, raising coverage from 53% to 91.8% and reducing production hotfixes by approximately 45%.
+🛠 **Technologies:** Node.js, TypeScript, PostgreSQL, Redis, BullMQ, Docker, AWS S3, Puppeteer, Cypress
 
 ---
 
-## 📫 Contact Me
+### **Vanguard** — *Middle Backend Developer*  
+`Jun 2020 – Nov 2022` | ![Remote](https://img.shields.io/badge/Remote-Work-00C853?style=flat)
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) Telegram: [t.me/raywforever](http://t.me/raywforever)  
-- ![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) Email: [ilya.polozoff@gmail.com](mailto:ilya.polozoff@gmail.com)  
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) LinkedIn: [linkedin.com/in/ilyakuzmenko](http://linkedin.com/in/ilyakuzmenko)  
+> Leading digital advisor platform using AI algorithms for personalized investment strategies.
+
+🚀 **Key Achievements:**
+- **Improved risk-calculation accuracy by 20%** through integrating TensorFlow ML models predicting crypto asset volatility
+- **Built scalable authentication microservice** with JWT and Redis; implemented RS256 signing and KYC compliance, **reducing fraud incidents by 40%**
+- **Developed portfolio-management microservice** with Kafka-based event system that **cut bottlenecks by 40%** during NYSE peak times
+- **Implemented advanced caching strategies**, decreasing database query volume by **84%** and improving response time by **96%**
+- **Standardized backend testing**, raising coverage from **53% to 91.8%** and reducing production hotfixes by **approximately 45%**
+
+🛠 **Technologies:** Node.js, TypeScript, Kafka, Redis, TensorFlow, JWT, Kubernetes, Jest
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration or job opportunities.
+## 📊 GitHub Stats
 
-![Visitors](https://img.shields.io/badge/Visitors-Welcome-brightgreen?style=flat)
+<div align="center">
 
+![Ilya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/raywforever)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilya.polozoff@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ilyakuzmenko)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Always building something amazing  
+### 💡 Passionate about clean code and scalable architecture  
+
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+*✨ Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration opportunities.*
