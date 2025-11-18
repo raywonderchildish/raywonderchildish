@@ -27,6 +27,8 @@ Language service provider delivering on-site, telephonic, and video interpreting
 - Developed scalable PDF invoicing microservice with BullMQ, Redis, Puppeteer; integrated AWS S3 storage and SES email notifications. Managed over 2,000 concurrent jobs fault-tolerantly across 5 replicas, ensuring zero downtime under peak loads.  
 - Enhanced CI/CD pipelines; increased test coverage from 43% to 93% and reduced testing runtime from 32 to 8 minutes by parallelizing Cypress tests.
 
+---
+
 ### [Vanguard](https://investor.vanguard.com/advice/robo-advisor) (Remote) — Valley Forge, Pennsylvania, USA  
 **Middle Backend Developer** | Jun 2020 – Nov 2022  
 
