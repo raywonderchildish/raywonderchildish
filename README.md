@@ -34,5 +34,3 @@ Built scalable auth microservice (JWT & Redis) reducing fraud by 40%. Created po
 ---
 
 Thanks for visiting my profile! Feel free to check out my work or reach out for collaboration or job opportunities.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raywonderchildish&show_icons=true&theme=radical)
