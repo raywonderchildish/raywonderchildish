@@ -40,16 +40,6 @@ Leading digital advisor platform using AI algorithms for personalized investment
 
 ---
 
-## 🚀 Current & Previous Projects
-
-### [Effectiff](https://effectiff.com/)  
-Developed a fault-tolerant PDF invoicing microservice using BullMQ and Redis, integrated with AWS S3 and SES. Supports 2000+ concurrent jobs with zero downtime.
-
-### [Vanguard](https://investor.vanguard.com/advice/robo-advisor)  
-Built scalable auth microservice (JWT & Redis) reducing fraud by 40%. Created portfolio management services with Kafka event-driven architecture improving peak throughput by 40%.
-
----
-
 ## 📫 Contact Me
 
 - Telegram: [t.me/raywforever](http://t.me/raywforever)  
