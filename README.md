@@ -1,4 +1,4 @@
-# Hi, I'm Ilya Kuzmenko 🦊  
+# Hi, I'm Ilya Polozov 🦊  
 **Backend Developer | Microservices Specialist**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
